@@ -1,0 +1,1001 @@
+order_id,customer_id,order_date,category,product_price,quantity,region,payment_method,discount_pct,rating
+1058,53,01-01-23,Books,147.76,5,East,Cash,20,1
+1216,113,01-01-23,Beauty,402.96,1,South,Credit Card,5,3
+1880,74,02-01-23,Home,75.71,5,East,Cash,0,5
+1994,111,02-01-23,Books,348.85,4,East,Debit Card,0,4
+1571,90,03-01-23,Clothing,259.36,4,North,Credit Card,0,1
+1629,83,03-01-23,Clothing,,5,North,UPI,5,3
+1379,67,04-01-23,Beauty,459.16,1,North,Wallet,0,5
+1034,170,04-01-23,Sports,229.73,5,South,Credit Card,0,4
+1103,89,05-01-23,Sports,,1,West,Cash,10,4
+1030,22,06-01-23,Home,304.86,3,West,Debit Card,0,
+1330,128,07-01-23,Electronics,404.54,4,East,Wallet,0,4
+1913,51,07-01-23,Home,451.38,5,East,UPI,0,5
+1766,191,07-01-23,Home,460.78,2,North,Wallet,0,2
+1697,173,07-01-23,Electronics,159.89,2,West,Debit Card,20,4
+1306,99,08-01-23,Beauty,418.56,2,East,Debit Card,0,5
+1897,144,09-01-23,Home,363.1,5,East,Cash,15,3
+1068,35,10-01-23,Clothing,417.66,2,South,UPI,0,5
+1857,192,11-01-23,Beauty,126.45,1,East,Cash,20,3
+1178,128,11-01-23,Sports,474.11,5,West,UPI,10,
+1425,98,11-01-23,Beauty,397.33,4,North,Cash,0,5
+1594,99,11-01-23,Electronics,250.65,3,North,Debit Card,20,1
+1479,117,12-01-23,Beauty,55.39,5,East,Debit Card,20,3
+1925,12,12-01-23,Sports,219.57,5,East,Cash,0,5
+1072,104,13-01-23,Sports,101.34,1,North,Credit Card,0,4
+1924,133,14-01-23,Clothing,402.89,3,South,Wallet,5,3
+1138,5,15-01-23,Electronics,257.66,1,South,Debit Card,0,4
+1162,86,15-01-23,Books,75.71,5,West,UPI,0,5
+1541,128,16-01-23,Sports,372.24,5,South,Debit Card,0,5
+1501,69,16-01-23,Home,251.28,1,West,Credit Card,5,5
+1393,151,17-01-23,Clothing,252.8,3,South,Credit Card,10,5
+1722,173,17-01-23,Home,55.44,5,East,Cash,5,4
+1748,102,17-01-23,Clothing,232.18,4,,Cash,0,5
+1475,92,17-01-23,Clothing,330.03,5,East,Cash,20,4
+1455,6,17-01-23,Beauty,243.04,1,South,Credit Card,0,
+1283,140,18-01-23,Clothing,109.94,4,West,Credit Card,0,5
+1282,48,19-01-23,Clothing,425.92,1,East,Cash,15,5
+1621,189,20-01-23,Beauty,82.85,3,East,Debit Card,0,5
+1986,68,21-01-23,Clothing,139.61,3,South,Wallet,0,
+1795,86,21-01-23,Books,329.31,3,North,UPI,10,5
+1788,65,22-01-23,Sports,253.8,2,East,Wallet,5,
+1919,61,22-01-23,Electronics,,1,East,UPI,10,3
+1752,8,22-01-23,Electronics,45.17,1,South,Credit Card,0,5
+1120,135,23-01-23,Books,248.7,4,North,UPI,0,4
+1183,27,23-01-23,Sports,43.05,4,South,Credit Card,5,1
+1958,109,24-01-23,Books,101.51,3,North,Credit Card,0,
+1243,97,25-01-23,Home,422.14,3,South,Credit Card,5,5
+1461,55,25-01-23,Electronics,496.66,4,East,Cash,15,4
+1044,64,26-01-23,Beauty,197.05,5,West,Wallet,10,5
+1820,110,27-01-23,Clothing,255.29,3,South,Credit Card,10,
+1401,137,27-01-23,Books,26.73,2,East,Debit Card,10,5
+1204,186,29-01-23,Home,325.67,1,South,Debit Card,5,4
+1382,25,29-01-23,Home,445.62,2,South,Debit Card,20,2
+1422,115,29-01-23,Electronics,313.06,3,East,UPI,0,3
+1556,67,29-01-23,Home,332.2,1,North,Cash,0,
+1767,145,29-01-23,Books,294.3,4,East,UPI,15,1
+1700,58,31-01-23,Sports,433.72,3,East,Cash,10,5
+1273,99,01-02-23,Sports,219.2,1,North,Credit Card,0,1
+1768,161,02-02-23,Clothing,271.47,5,South,Credit Card,0,4
+1392,86,03-02-23,Home,124.74,4,West,Credit Card,10,4
+1950,180,04-02-23,Beauty,377.11,2,North,Cash,10,3
+1660,7,06-02-23,Clothing,141.78,2,West,Debit Card,5,5
+1740,54,06-02-23,Electronics,439.35,5,East,Cash,10,
+1654,146,07-02-23,Books,317.98,2,South,Credit Card,5,5
+1129,99,08-02-23,Clothing,104.23,2,North,Credit Card,5,5
+1462,168,08-02-23,Clothing,27.23,3,East,Cash,0,
+1555,12,08-02-23,Home,297.37,3,North,Debit Card,10,4
+1533,96,08-02-23,Clothing,155.58,3,North,Cash,10,5
+1781,56,08-02-23,Electronics,468.46,5,North,Cash,15,2
+1648,167,09-02-23,Electronics,169.57,3,North,Credit Card,5,5
+1665,137,09-02-23,Sports,93.79,2,East,Credit Card,0,5
+1674,83,09-02-23,Electronics,135.82,2,North,UPI,0,4
+1675,136,09-02-23,Home,106.64,4,West,Credit Card,15,3
+1026,188,09-02-23,Electronics,40.5,4,East,Credit Card,15,5
+1391,175,10-02-23,Books,267.18,2,South,Debit Card,5,5
+1389,114,11-02-23,Electronics,71.47,4,North,Credit Card,20,4
+1460,99,11-02-23,Books,460.17,4,North,Credit Card,0,5
+1110,139,11-02-23,Clothing,490.59,2,North,Wallet,5,3
+1474,19,13-02-23,Home,182.5,5,West,Credit Card,0,5
+1718,58,15-02-23,Home,420.7,5,West,Debit Card,5,3
+1869,79,15-02-23,Sports,352.56,2,East,Credit Card,0,3
+1499,192,16-02-23,Books,391.28,4,West,Debit Card,0,5
+1167,62,16-02-23,Home,423.73,4,East,Debit Card,10,
+1616,187,16-02-23,Electronics,401,2,South,Cash,5,4
+1255,147,18-02-23,Sports,318.19,3,East,Debit Card,15,
+1203,62,20-02-23,Home,182.12,1,North,UPI,15,4
+1314,54,20-02-23,Sports,205.12,5,North,Cash,0,5
+1354,147,22-02-23,Home,,2,South,Cash,10,5
+1310,128,23-02-23,Sports,14.57,5,East,Credit Card,10,3
+1615,141,23-02-23,Sports,93.73,5,East,Cash,20,5
+1433,63,24-02-23,Electronics,241.07,4,South,Wallet,5,3
+1295,120,24-02-23,Clothing,324.19,5,East,Wallet,10,4
+1301,164,24-02-23,Electronics,187.05,1,South,Wallet,5,5
+1363,117,28-02-23,Clothing,481.57,1,South,UPI,10,5
+1947,8,28-02-23,Home,384.42,4,South,Credit Card,10,5
+1813,23,01-03-23,Sports,415.14,3,East,Wallet,10,4
+1587,21,02-03-23,Sports,171.13,5,North,Cash,10,5
+1458,94,02-03-23,Books,148,1,West,Debit Card,10,4
+1595,36,03-03-23,Electronics,193.36,2,East,Wallet,20,4
+1626,28,03-03-23,Electronics,399.36,1,South,Wallet,10,5
+1250,187,04-03-23,Books,482.22,1,South,Credit Card,0,5
+1263,39,04-03-23,Beauty,475.63,2,North,Cash,20,2
+1845,57,05-03-23,Books,259.89,2,North,Cash,15,3
+1176,190,10-03-23,Home,59.94,4,South,Credit Card,20,5
+1437,58,10-03-23,Clothing,334.97,2,South,Cash,15,5
+1848,47,13-03-23,Electronics,14.47,1,East,Credit Card,10,5
+1452,5,14-03-23,Beauty,52.22,4,South,Debit Card,10,
+1898,8,14-03-23,Books,270.15,3,West,Debit Card,5,1
+1232,184,16-03-23,Sports,141.7,1,North,Credit Card,0,1
+1784,5,16-03-23,Books,149.73,2,East,Debit Card,0,5
+1033,59,16-03-23,Home,494.08,3,South,UPI,20,4
+1386,104,16-03-23,Sports,8.88,1,North,Cash,0,
+1321,142,19-03-23,Electronics,340.38,2,North,Credit Card,5,5
+1105,9,19-03-23,Sports,141.5,3,West,UPI,0,4
+1770,141,20-03-23,Sports,187.38,2,West,Wallet,20,
+1485,129,22-03-23,Sports,434.05,3,South,UPI,0,4
+1709,190,23-03-23,Home,352.06,5,North,UPI,10,4
+1341,182,23-03-23,Electronics,325,4,West,Cash,0,5
+1915,21,25-03-23,Home,38.15,3,North,Cash,0,5
+1787,118,25-03-23,Clothing,154.02,2,North,Wallet,0,
+1797,27,25-03-23,Electronics,,4,East,Debit Card,10,5
+1908,93,25-03-23,Electronics,441.87,4,South,UPI,5,4
+1256,148,25-03-23,Clothing,353.41,4,East,UPI,5,3
+1334,115,26-03-23,Books,,1,East,Debit Card,0,
+1874,133,27-03-23,Electronics,317.55,5,East,Debit Card,10,4
+1504,195,27-03-23,Home,97.14,2,North,Cash,10,5
+1300,113,28-03-23,Clothing,147.27,5,East,Debit Card,10,2
+1926,90,28-03-23,Home,498.61,3,East,Wallet,10,5
+1320,33,29-03-23,Electronics,261.92,4,South,Cash,0,5
+1865,179,29-03-23,Sports,210.81,3,West,Cash,0,5
+1493,48,30-03-23,Electronics,144.84,4,,Debit Card,10,5
+1632,117,30-03-23,Sports,11.02,4,North,Debit Card,15,5
+1111,81,30-03-23,Clothing,244.29,1,South,Wallet,15,2
+1059,130,31-03-23,Electronics,480.76,5,South,UPI,15,4
+1888,126,31-03-23,Clothing,13.97,5,North,Credit Card,0,1
+1875,29,02-04-23,Electronics,268.59,4,East,Wallet,5,4
+1682,132,02-04-23,Clothing,43.1,3,North,Wallet,5,3
+1952,127,03-04-23,Electronics,261.41,1,South,Wallet,0,4
+1172,108,05-04-23,Home,206.73,2,North,UPI,0,
+1083,162,05-04-23,Electronics,247,4,South,UPI,0,
+1319,68,06-04-23,Clothing,481.93,1,East,Debit Card,0,5
+1148,63,07-04-23,Electronics,182.56,3,West,Wallet,0,3
+1528,34,08-04-23,Electronics,211.2,5,North,Debit Card,0,5
+1432,186,08-04-23,Electronics,85.03,4,South,Cash,0,5
+1778,153,09-04-23,Sports,,3,North,Wallet,10,5
+1620,140,09-04-23,Books,433.32,2,North,Cash,5,3
+1988,67,10-04-23,Home,135.71,2,North,Credit Card,15,
+1470,147,12-04-23,Electronics,181.77,1,West,Debit Card,15,3
+1860,98,12-04-23,Home,120.93,2,North,Credit Card,0,4
+1885,6,13-04-23,Sports,106.14,4,East,Wallet,10,5
+1128,37,14-04-23,Clothing,478.24,1,North,Credit Card,5,4
+1892,151,16-04-23,Books,282.54,5,North,Wallet,10,3
+1200,96,16-04-23,Electronics,322.04,3,South,UPI,20,4
+1609,17,17-04-23,Electronics,275.48,4,West,Credit Card,0,
+1466,114,18-04-23,Clothing,378.36,3,West,Credit Card,10,5
+1544,152,18-04-23,Clothing,154.95,3,East,Credit Card,0,
+1383,54,19-04-23,Electronics,355.32,5,East,Wallet,10,5
+1910,178,21-04-23,Clothing,42.47,1,West,Debit Card,10,2
+1720,173,23-04-23,Sports,337.87,4,North,Debit Card,10,5
+1428,191,23-04-23,Clothing,480.27,4,West,Cash,0,4
+1055,14,23-04-23,Home,303.46,3,East,Debit Card,5,1
+1289,147,23-04-23,Beauty,305.84,1,North,Debit Card,15,5
+1290,48,24-04-23,Sports,151.17,5,South,UPI,0,4
+1664,170,24-04-23,Clothing,261.76,4,East,Debit Card,15,4
+1670,5,25-04-23,Books,353.75,5,North,UPI,0,
+1367,37,25-04-23,Sports,101.94,3,North,UPI,0,4
+1883,69,26-04-23,Clothing,198.97,2,North,UPI,10,5
+1840,50,27-04-23,Clothing,63.19,2,North,UPI,10,3
+1226,172,27-04-23,Clothing,31.89,5,East,Debit Card,10,5
+1971,115,27-04-23,Books,139.12,4,West,Debit Card,0,4
+1157,36,28-04-23,Books,150.84,5,East,UPI,10,3
+1051,18,28-04-23,Electronics,62.49,1,North,Debit Card,0,4
+1036,15,28-04-23,Electronics,74.57,3,West,Debit Card,5,
+1348,28,29-04-23,Electronics,231.71,1,East,Debit Card,0,5
+1631,144,30-04-23,Clothing,453.51,1,East,Credit Card,0,
+1323,48,30-04-23,Beauty,388.13,5,East,Debit Card,10,5
+1754,92,30-04-23,Clothing,420.05,3,West,Debit Card,0,5
+1931,45,02-05-23,Electronics,189.4,5,West,Debit Card,10,4
+1890,115,02-05-23,Home,39.18,1,East,Cash,5,5
+1653,75,04-05-23,Clothing,337.38,4,South,Debit Card,10,4
+1199,160,07-05-23,Electronics,116.88,2,South,Credit Card,0,4
+1922,70,07-05-23,Electronics,41.68,1,South,UPI,0,3
+1388,24,08-05-23,Home,226.6,4,South,Debit Card,15,5
+1365,99,08-05-23,Sports,186.01,3,West,UPI,0,4
+1785,119,10-05-23,Books,224.74,3,East,Wallet,5,5
+1416,173,10-05-23,Books,490.67,2,South,UPI,0,5
+1170,28,10-05-23,Home,246.38,3,East,Debit Card,5,4
+1463,52,11-05-23,Beauty,381.7,2,East,Debit Card,5,
+1529,180,11-05-23,Books,263.64,3,East,Cash,0,1
+1108,136,12-05-23,Electronics,78.65,1,West,Credit Card,20,
+1698,141,13-05-23,Sports,139.19,3,East,Cash,0,4
+1198,118,13-05-23,Sports,240.84,5,East,Cash,0,5
+1181,129,14-05-23,Home,263.68,3,West,UPI,10,
+1023,38,17-05-23,Home,324.68,1,South,Debit Card,0,
+1222,147,17-05-23,Electronics,250.86,2,West,Credit Card,5,
+1090,40,17-05-23,Electronics,104.65,3,West,Wallet,0,4
+1510,185,17-05-23,Home,470.69,1,South,Debit Card,0,4
+1063,188,19-05-23,Electronics,273,4,South,Credit Card,10,4
+1585,120,20-05-23,Electronics,101.64,3,South,Cash,5,1
+1056,9,20-05-23,Home,414.22,3,West,Debit Card,5,4
+1268,185,21-05-23,Home,323.85,3,South,Debit Card,15,5
+1189,198,21-05-23,Sports,204.42,5,South,Cash,10,4
+1551,189,21-05-23,Home,404.31,4,West,Wallet,0,5
+1573,93,22-05-23,Clothing,187.79,2,North,Wallet,0,
+1891,111,23-05-23,Home,239.76,1,West,Debit Card,10,2
+1122,12,23-05-23,Home,433.46,4,West,Debit Card,10,5
+1280,2,24-05-23,Beauty,211.17,2,East,UPI,20,3
+1124,33,25-05-23,Sports,206.75,5,South,Credit Card,10,5
+1627,128,25-05-23,Beauty,128.98,1,East,Wallet,10,2
+1387,174,26-05-23,Electronics,317.31,1,South,Cash,0,3
+1577,115,26-05-23,Home,358.59,4,North,Wallet,15,
+1932,155,27-05-23,Home,39.01,1,East,Credit Card,0,3
+1679,145,27-05-23,Sports,330.09,3,West,Cash,0,4
+1335,119,27-05-23,Electronics,387.71,4,North,Credit Card,0,4
+1259,52,28-05-23,Beauty,357.96,2,West,Cash,0,4
+1441,180,28-05-23,Clothing,251.95,1,East,Credit Card,0,5
+1423,143,29-05-23,Electronics,490.68,1,South,Cash,20,
+1333,187,31-05-23,Home,13.69,2,North,Debit Card,15,4
+1525,10,01-06-23,Home,68.29,5,East,Debit Card,10,4
+1964,7,01-06-23,Clothing,328.8,3,East,Wallet,5,
+1597,152,02-06-23,Clothing,394.17,2,West,Wallet,5,5
+1831,95,02-06-23,Clothing,430.09,4,South,UPI,20,5
+1395,127,02-06-23,Home,42.74,4,West,UPI,0,4
+1449,53,03-06-23,Home,164.23,5,East,UPI,15,
+1253,90,05-06-23,Electronics,249.44,4,North,Wallet,0,5
+1783,109,06-06-23,Home,413.25,5,East,Wallet,0,
+1145,42,06-06-23,Electronics,347.8,5,North,Credit Card,20,4
+1163,28,06-06-23,Electronics,377.95,3,West,Credit Card,10,4
+1166,45,06-06-23,Electronics,384.23,2,East,Debit Card,0,2
+1361,158,07-06-23,Clothing,495.71,3,East,UPI,5,4
+1524,23,08-06-23,Sports,23.6,1,East,UPI,20,5
+1957,130,08-06-23,Home,89.09,5,North,Cash,10,
+1158,13,08-06-23,Clothing,12.09,4,West,Debit Card,10,2
+1630,111,09-06-23,Sports,417.25,3,South,UPI,10,5
+1540,2,10-06-23,Books,333.21,2,West,Debit Card,5,4
+1247,93,10-06-23,Home,219.74,2,East,Wallet,5,4
+1805,55,11-06-23,Clothing,59.66,1,West,UPI,5,2
+1298,116,11-06-23,Sports,103.61,3,North,Credit Card,0,3
+1806,6,12-06-23,Electronics,148.15,4,East,Credit Card,5,4
+1327,135,14-06-23,Clothing,67.15,4,East,Debit Card,5,5
+1102,65,14-06-23,Sports,396.3,1,North,Credit Card,0,
+1887,194,15-06-23,Sports,212.54,4,North,Credit Card,20,
+1855,103,15-06-23,Books,262.02,4,West,Debit Card,5,2
+1681,45,17-06-23,Home,303.8,1,East,Cash,5,
+1073,132,17-06-23,Beauty,33.54,4,South,UPI,10,3
+1405,170,17-06-23,Electronics,29.74,1,West,Cash,20,5
+1691,91,19-06-23,Electronics,12.48,2,,Credit Card,0,3
+1547,163,19-06-23,Home,409.31,4,South,Wallet,5,5
+1645,181,19-06-23,Beauty,146.45,1,South,Debit Card,10,5
+1530,138,20-06-23,Electronics,32.04,5,South,Debit Card,10,1
+1467,124,21-06-23,Clothing,459.62,3,South,Cash,10,
+1071,50,21-06-23,Books,133.37,3,East,Debit Card,0,5
+1046,51,22-06-23,Home,16.56,3,North,Wallet,0,5
+1286,160,24-06-23,Home,440.68,1,East,UPI,20,5
+1657,74,25-06-23,Home,376.72,2,West,UPI,10,4
+1248,3,26-06-23,Beauty,455.42,4,South,Wallet,10,5
+1303,104,27-06-23,Electronics,60.2,1,East,Cash,10,4
+1134,101,28-06-23,Sports,447.08,3,West,Debit Card,0,
+1240,198,28-06-23,Books,55.44,1,East,Wallet,5,3
+1244,124,29-06-23,Books,160.11,5,South,Debit Card,0,
+1215,187,01-07-23,Books,412.15,4,North,Debit Card,5,1
+1328,195,01-07-23,Home,13.39,1,South,Cash,0,3
+1241,139,01-07-23,Beauty,183.32,1,North,Debit Card,5,5
+1531,147,02-07-23,Beauty,486.67,1,East,UPI,20,5
+1978,17,05-07-23,Sports,255.99,5,North,Wallet,5,5
+1586,164,06-07-23,Clothing,175.94,1,South,Credit Card,0,5
+1429,86,06-07-23,Clothing,263.12,2,South,Cash,5,5
+1527,100,07-07-23,Sports,5.01,5,South,Debit Card,5,5
+1693,19,10-07-23,Electronics,129.19,4,South,Wallet,20,5
+1747,16,11-07-23,Beauty,35.95,5,North,Credit Card,0,4
+1041,51,13-07-23,Electronics,195.18,4,South,Debit Card,20,
+1287,9,13-07-23,Beauty,111.79,4,East,UPI,0,
+1886,53,13-07-23,Home,,5,South,Cash,5,4
+1643,39,14-07-23,Electronics,38.83,1,South,Wallet,10,5
+1742,3,15-07-23,Home,11.8,5,East,Credit Card,0,1
+1152,132,15-07-23,Clothing,,1,West,Wallet,15,4
+1130,172,17-07-23,Clothing,59.09,4,West,UPI,10,4
+1823,173,18-07-23,Home,55.77,2,North,Wallet,0,4
+1490,96,19-07-23,Beauty,292.14,3,West,Wallet,0,
+1448,8,20-07-23,Sports,114.93,4,East,Credit Card,20,5
+1375,116,20-07-23,Home,197.14,3,West,Wallet,5,4
+1223,126,21-07-23,Electronics,145.72,3,South,Credit Card,0,5
+1832,72,25-07-23,Sports,375.44,1,,UPI,0,3
+1953,56,26-07-23,Home,74.46,1,South,Cash,0,5
+1810,102,27-07-23,Beauty,270.1,2,North,UPI,15,3
+1916,5,27-07-23,Clothing,439.29,4,West,Debit Card,15,
+1368,24,28-07-23,Electronics,74.7,4,South,UPI,20,4
+1234,145,29-07-23,Home,36.03,2,East,Debit Card,0,3
+1191,137,29-07-23,Books,120.03,5,South,Cash,15,5
+1755,164,29-07-23,Electronics,403.52,4,South,UPI,0,4
+1863,79,02-08-23,Electronics,310.07,2,East,Cash,5,4
+1269,178,03-08-23,Electronics,28.85,5,West,Credit Card,0,4
+1160,71,04-08-23,Electronics,417.9,1,North,Cash,5,5
+1678,86,04-08-23,Beauty,147.29,2,North,Debit Card,5,4
+1482,127,04-08-23,Home,24.27,5,South,Wallet,20,5
+1628,52,04-08-23,Electronics,314.31,3,North,Debit Card,0,4
+1457,116,05-08-23,Home,63.66,5,West,UPI,15,4
+1188,103,06-08-23,Clothing,41.09,5,West,Debit Card,0,5
+1611,62,06-08-23,Books,30.58,2,North,Wallet,10,4
+1291,131,10-08-23,Electronics,72.62,1,North,Cash,5,4
+1739,117,10-08-23,Books,103.64,2,East,UPI,0,5
+1029,58,11-08-23,Books,340.17,5,North,Wallet,5,4
+1516,197,11-08-23,Clothing,348.34,1,North,Credit Card,15,1
+1724,47,11-08-23,Clothing,219.62,3,South,Wallet,0,
+1900,104,11-08-23,Home,411.59,5,West,Debit Card,5,4
+1716,117,12-08-23,Beauty,479,5,North,Wallet,0,3
+1667,27,12-08-23,Home,61.09,3,East,Debit Card,0,3
+1735,14,12-08-23,Electronics,320.66,4,South,Credit Card,20,4
+1125,48,13-08-23,Home,414.62,5,South,Cash,5,
+1881,17,13-08-23,Home,347.58,2,West,Cash,0,5
+1053,89,13-08-23,Home,160.41,3,South,Debit Card,15,4
+1596,96,14-08-23,Sports,85.7,2,North,Debit Card,5,4
+1610,113,14-08-23,Electronics,483.68,5,North,Wallet,5,5
+1353,48,14-08-23,Sports,127.07,5,North,Debit Card,10,5
+1652,163,14-08-23,Beauty,322.66,1,East,Debit Card,0,4
+1430,51,15-08-23,Sports,488.77,2,South,Wallet,0,
+1763,41,15-08-23,Electronics,263.12,4,South,Wallet,0,4
+1159,160,16-08-23,Clothing,370.25,1,South,Credit Card,0,5
+1098,41,17-08-23,Clothing,362.46,4,South,Credit Card,10,5
+1312,82,17-08-23,Home,209.75,5,South,Cash,0,2
+1465,13,17-08-23,Clothing,199.27,4,East,Debit Card,0,4
+1027,21,17-08-23,Electronics,207.77,4,East,Cash,0,5
+1143,15,19-08-23,Electronics,345.42,3,South,Wallet,5,5
+1721,160,21-08-23,Home,488.62,5,West,UPI,0,
+1734,49,21-08-23,Beauty,308.58,5,North,Debit Card,0,
+1377,160,23-08-23,Electronics,133.65,4,North,Debit Card,0,3
+1835,162,24-08-23,Sports,84.38,4,South,Cash,0,
+1086,95,24-08-23,Books,440.76,1,East,UPI,15,4
+1372,95,25-08-23,Clothing,77.75,4,West,Wallet,5,5
+1983,145,25-08-23,Home,411.81,5,North,Wallet,5,2
+1311,110,27-08-23,Beauty,66.56,2,East,Wallet,20,2
+1563,29,27-08-23,Home,476.35,4,West,Cash,10,4
+1879,145,30-08-23,Sports,171.92,2,South,Credit Card,0,5
+1744,185,30-08-23,Sports,111.13,2,West,Credit Card,5,5
+1605,23,31-08-23,Electronics,221.64,5,North,Wallet,0,4
+1024,130,31-08-23,Books,320.27,5,East,Credit Card,15,5
+1930,78,31-08-23,Clothing,178.51,1,South,Cash,0,5
+1229,160,01-09-23,Electronics,5.07,4,North,Credit Card,0,
+1443,70,01-09-23,Home,9.47,1,,Wallet,0,1
+1559,168,02-09-23,Books,356.11,4,East,Wallet,0,4
+1979,86,03-09-23,Books,98.02,4,West,Cash,10,1
+1970,38,07-09-23,Books,359.62,1,South,UPI,10,4
+1505,76,07-09-23,Books,,4,South,Debit Card,0,4
+1550,161,08-09-23,Electronics,451.46,5,West,Cash,5,4
+1911,61,08-09-23,Beauty,196.97,4,North,Wallet,0,4
+1656,9,08-09-23,Home,212.08,1,North,Credit Card,0,5
+1179,92,11-09-23,Electronics,40.8,1,East,Debit Card,10,1
+1151,96,11-09-23,Clothing,109.3,2,East,Debit Card,10,3
+1352,61,13-09-23,Beauty,117.98,5,South,Cash,0,4
+1802,99,14-09-23,Home,441.44,1,South,UPI,0,4
+1711,113,15-09-23,Electronics,207.04,2,North,Debit Card,15,
+1613,112,16-09-23,Clothing,360.63,2,,UPI,0,5
+1065,172,16-09-23,Beauty,279.09,5,East,Credit Card,10,3
+1650,122,18-09-23,Clothing,190.09,5,East,UPI,0,4
+1069,81,18-09-23,Sports,223.02,2,West,Wallet,5,4
+1351,197,18-09-23,Home,37.52,5,South,Wallet,20,4
+1165,170,18-09-23,Books,330.98,2,West,Wallet,10,4
+1677,65,19-09-23,Electronics,137.92,2,East,Credit Card,15,5
+1905,96,21-09-23,Clothing,228.39,1,South,Credit Card,10,5
+1317,169,21-09-23,Clothing,9.91,3,South,Debit Card,10,5
+1294,54,21-09-23,Sports,,3,North,Cash,0,5
+1565,12,23-09-23,Electronics,136.34,5,North,Wallet,20,4
+1637,180,24-09-23,Beauty,156.85,3,East,Wallet,10,3
+1981,44,25-09-23,Beauty,,4,North,Credit Card,10,2
+1494,89,25-09-23,Books,179.76,2,South,Cash,15,3
+1407,99,25-09-23,Home,490.69,5,West,Wallet,0,4
+1757,136,27-09-23,Home,466.69,4,South,Cash,20,
+1099,157,27-09-23,Clothing,269.03,5,South,Credit Card,10,
+1782,30,28-09-23,Clothing,36.68,3,West,Cash,5,3
+1808,95,28-09-23,Clothing,128.73,2,North,Debit Card,0,4
+1561,43,29-09-23,Clothing,391.41,3,South,Cash,5,1
+1834,154,30-09-23,Beauty,307.22,2,South,Credit Card,5,2
+1522,33,30-09-23,Electronics,144.82,5,East,UPI,0,4
+1552,179,01-10-23,Home,492.5,3,East,Credit Card,0,4
+1849,151,01-10-23,Electronics,87.05,2,South,Wallet,0,5
+1472,120,02-10-23,Electronics,129.25,1,West,UPI,5,5
+1012,88,04-10-23,Electronics,302.53,3,West,Wallet,5,
+1376,191,05-10-23,Electronics,,4,South,Credit Card,10,4
+1741,118,05-10-23,Clothing,370.67,4,North,Debit Card,0,5
+1358,49,07-10-23,Clothing,479.11,1,West,UPI,20,
+1373,99,08-10-23,Sports,406.51,2,South,Credit Card,0,4
+1004,15,09-10-23,Home,400.2,4,East,Credit Card,0,1
+1175,30,10-10-23,Beauty,177.67,5,West,Credit Card,0,5
+1339,109,12-10-23,Electronics,5.67,1,North,Debit Card,0,4
+1275,144,12-10-23,Electronics,108.4,2,North,Wallet,10,5
+1760,178,12-10-23,Sports,310.31,2,East,Credit Card,15,5
+1249,148,12-10-23,Electronics,191.77,4,West,Debit Card,0,
+1776,197,12-10-23,Electronics,127.95,3,West,UPI,10,5
+1279,113,13-10-23,Electronics,384.95,5,West,Debit Card,15,5
+1402,43,14-10-23,Clothing,87.05,4,West,Debit Card,15,
+1322,21,15-10-23,Electronics,159.37,4,North,Cash,0,
+1939,107,15-10-23,Beauty,112.75,1,North,Wallet,15,1
+1500,191,15-10-23,Home,240.79,2,West,Cash,15,4
+1009,103,16-10-23,Books,162.84,5,West,Credit Card,5,4
+1439,86,16-10-23,Electronics,284.72,2,East,Cash,10,5
+1676,109,16-10-23,Home,244.1,1,East,Debit Card,0,
+1141,27,16-10-23,Home,14.46,3,North,Wallet,0,4
+1150,52,16-10-23,Clothing,142.99,5,West,UPI,10,4
+1100,15,18-10-23,Books,435.63,1,East,UPI,0,4
+1174,84,19-10-23,Home,37.67,4,East,Debit Card,5,5
+1420,144,19-10-23,Electronics,298.81,3,West,Debit Card,10,5
+1996,168,20-10-23,Sports,299.68,4,West,Wallet,15,5
+1578,105,20-10-23,Books,233.55,4,South,Debit Card,0,
+1976,39,22-10-23,Beauty,215.3,3,North,Debit Card,10,
+1715,166,22-10-23,Sports,227.88,4,West,Credit Card,0,5
+1114,163,22-10-23,Clothing,190.79,4,,UPI,5,5
+1206,12,23-10-23,Clothing,444.89,1,West,Debit Card,15,5
+1094,24,23-10-23,Sports,273.8,3,South,Debit Card,20,4
+1113,163,23-10-23,Clothing,296.42,2,South,Credit Card,5,2
+1424,92,23-10-23,Electronics,99.1,3,North,Wallet,20,
+1454,196,23-10-23,Clothing,19.44,5,South,Wallet,0,4
+1207,39,24-10-23,Home,254.03,2,West,Cash,0,4
+1991,111,25-10-23,Electronics,165.63,2,South,UPI,0,
+1047,135,27-10-23,Electronics,379.33,4,North,Credit Card,10,5
+1858,38,28-10-23,Sports,33.58,2,East,Debit Card,20,5
+1929,177,28-10-23,Beauty,113.96,5,East,Debit Card,5,
+1666,178,28-10-23,Home,485.48,2,West,Cash,5,5
+1185,121,29-10-23,Clothing,398.29,4,East,Cash,20,5
+1592,192,29-10-23,Clothing,283.23,5,East,Wallet,0,5
+1796,59,30-10-23,Electronics,133.82,5,West,Debit Card,0,
+1894,80,01-11-23,Home,345.87,4,East,Debit Card,0,5
+1276,90,01-11-23,Clothing,187.51,4,North,UPI,0,3
+1756,90,02-11-23,Electronics,412.38,1,East,Wallet,0,4
+1940,63,03-11-23,Electronics,332.53,4,South,UPI,10,
+1221,129,05-11-23,Clothing,139.35,4,North,Wallet,5,
+1937,56,05-11-23,Home,355.84,3,East,Credit Card,0,
+1817,145,05-11-23,Books,476.64,3,North,Cash,5,5
+1431,153,06-11-23,Books,379.87,2,East,Debit Card,5,5
+1604,13,06-11-23,Sports,,5,West,Credit Card,0,3
+1873,81,06-11-23,Home,435.91,4,West,UPI,10,4
+1546,178,07-11-23,Electronics,357.75,2,East,Wallet,15,5
+1946,1,08-11-23,Books,37.9,3,West,Cash,20,5
+1438,58,08-11-23,Electronics,85.54,3,East,Debit Card,15,4
+1307,153,09-11-23,Home,12.27,1,North,Debit Card,0,
+1225,53,09-11-23,Electronics,316.63,2,East,Credit Card,5,5
+1918,170,10-11-23,Home,273.17,3,West,Debit Card,10,3
+1007,189,11-11-23,Beauty,458.73,4,East,Cash,10,5
+1661,174,12-11-23,Electronics,218.85,1,West,Credit Card,20,2
+1895,95,13-11-23,Electronics,130.37,2,East,Debit Card,5,5
+1998,83,14-11-23,Clothing,332.67,3,East,Debit Card,0,
+1480,62,14-11-23,Clothing,255.45,3,West,Debit Card,0,5
+1668,122,14-11-23,Electronics,204.78,3,West,Credit Card,5,5
+1907,155,14-11-23,Home,428.21,5,West,Cash,0,4
+1085,14,14-11-23,Clothing,496.95,4,North,Cash,15,4
+1272,42,14-11-23,Sports,252.7,1,South,Cash,0,5
+1909,160,14-11-23,Electronics,235.82,1,East,Debit Card,0,2
+1558,161,14-11-23,Home,274.53,3,North,Cash,0,5
+1077,106,15-11-23,Sports,281.07,4,East,UPI,0,2
+1591,152,15-11-23,Electronics,364.89,2,West,UPI,5,4
+1850,85,16-11-23,Home,445.97,2,East,Credit Card,20,5
+1005,107,16-11-23,Electronics,412.1,4,South,Wallet,20,5
+1095,154,16-11-23,Home,117.74,2,West,Credit Card,20,4
+1061,92,16-11-23,Clothing,195.83,3,East,Debit Card,5,5
+1076,54,17-11-23,Home,483.38,2,North,UPI,5,5
+1031,89,18-11-23,Sports,185.47,5,North,UPI,0,4
+1672,165,19-11-23,Books,176.53,5,South,Cash,0,4
+1639,53,19-11-23,Home,312.54,4,South,Cash,15,5
+1197,59,20-11-23,Books,164.14,4,North,UPI,20,4
+1745,12,20-11-23,Sports,139.05,5,West,Wallet,5,5
+1576,162,20-11-23,Electronics,350.12,3,South,Cash,10,2
+1168,185,20-11-23,Clothing,308.73,2,East,Credit Card,15,4
+1049,73,22-11-23,Beauty,148.18,3,South,UPI,5,5
+1729,147,22-11-23,Sports,133.06,2,West,Wallet,0,4
+1267,11,23-11-23,Home,392,1,South,Cash,5,5
+1309,146,24-11-23,Electronics,,2,East,Debit Card,5,5
+1655,76,24-11-23,Electronics,103.5,5,South,Cash,10,5
+1633,69,25-11-23,Electronics,338.64,3,South,Credit Card,0,5
+1079,54,25-11-23,Electronics,292.33,3,West,UPI,10,
+1331,33,26-11-23,Home,64.5,3,West,Cash,0,
+1608,30,26-11-23,Home,409.48,4,North,UPI,0,5
+1476,58,26-11-23,Sports,124,2,North,Wallet,0,3
+1955,28,28-11-23,Clothing,312.13,5,West,UPI,10,2
+1644,109,28-11-23,Books,392.96,3,North,Debit Card,0,1
+1993,34,30-11-23,Clothing,99.51,5,North,Wallet,0,3
+1087,48,30-11-23,Electronics,313.59,2,West,Wallet,5,5
+1507,144,01-12-23,Home,107.5,4,West,Debit Card,10,5
+1974,119,01-12-23,Electronics,124.54,3,South,UPI,5,5
+1738,1,01-12-23,Sports,50.24,2,North,UPI,5,3
+1680,71,02-12-23,Books,484.43,3,North,Credit Card,10,4
+1851,142,04-12-23,Clothing,124.56,1,West,Debit Card,0,5
+1483,137,05-12-23,Sports,22.83,5,North,Debit Card,5,4
+1567,46,06-12-23,Sports,151.8,3,East,Wallet,5,4
+1261,168,08-12-23,Clothing,483.19,1,South,Wallet,0,5
+1400,161,08-12-23,Clothing,219.24,4,West,Wallet,20,4
+1584,157,10-12-23,Sports,404.5,3,North,Credit Card,0,4
+1842,193,10-12-23,Clothing,5.99,5,East,UPI,10,5
+1593,177,10-12-23,Clothing,473.81,1,East,Debit Card,10,4
+1689,182,11-12-23,Electronics,326.01,4,North,Wallet,0,4
+1184,190,12-12-23,Beauty,252.81,2,South,Wallet,0,5
+1212,113,12-12-23,Clothing,342.9,1,South,Debit Card,5,4
+1237,69,13-12-23,Home,127.18,1,East,Wallet,0,3
+1537,16,15-12-23,Beauty,366.03,1,East,Cash,10,
+1097,124,15-12-23,Sports,455.18,5,East,Debit Card,15,1
+1669,194,15-12-23,Sports,370.25,3,North,Wallet,10,4
+1825,190,15-12-23,Beauty,278.92,1,North,Debit Card,5,5
+1305,112,15-12-23,Clothing,137.46,2,East,UPI,0,5
+1018,150,16-12-23,Home,75.58,5,East,Cash,10,4
+1020,2,16-12-23,Sports,176.21,2,West,Wallet,0,5
+1945,36,18-12-23,Beauty,276.47,2,West,UPI,0,5
+1683,36,19-12-23,Books,42.41,2,West,Cash,0,4
+1954,14,19-12-23,Electronics,337.22,2,East,Wallet,5,4
+1692,90,22-12-23,Clothing,482.68,4,North,Debit Card,0,5
+1196,152,22-12-23,Electronics,453.52,3,North,Debit Card,20,5
+1390,32,22-12-23,Clothing,479.18,3,East,Debit Card,0,5
+1710,191,22-12-23,Home,341.66,5,South,Debit Card,10,
+1934,26,22-12-23,Clothing,234.8,5,East,UPI,0,5
+1635,140,23-12-23,Electronics,276.69,3,West,Wallet,10,1
+1899,132,25-12-23,Beauty,418.88,3,North,Debit Card,20,5
+1566,95,25-12-23,Clothing,302.77,1,North,Wallet,10,4
+1374,188,25-12-23,Electronics,319.8,5,South,UPI,5,4
+1723,61,26-12-23,Sports,9.12,5,South,UPI,15,5
+1265,104,26-12-23,Home,152.54,3,North,UPI,0,5
+1257,96,27-12-23,Books,7.16,3,South,Cash,5,3
+1705,167,29-12-23,Electronics,369.58,1,North,Credit Card,10,4
+1417,20,29-12-23,Home,286.92,3,West,Credit Card,15,5
+1687,189,29-12-23,Sports,,2,South,Cash,0,3
+1186,116,29-12-23,Electronics,,1,South,Debit Card,20,4
+1961,187,30-12-23,Home,454.57,4,South,Credit Card,10,5
+1532,186,30-12-23,Clothing,116.93,5,East,Cash,20,4
+1357,192,30-12-23,Home,33.63,3,North,Wallet,10,5
+1446,188,31-12-23,Electronics,118.2,5,East,Debit Card,0,
+1727,118,31-12-23,Electronics,457.7,3,East,Credit Card,20,5
+1852,66,01-01-24,Home,180.36,2,East,UPI,0,1
+1607,105,01-01-24,Home,353.91,5,South,Debit Card,0,5
+1903,25,05-01-24,Home,170.15,3,West,Credit Card,5,4
+1218,130,06-01-24,Electronics,262.48,5,South,UPI,15,4
+1977,185,06-01-24,Home,454.38,5,South,Cash,10,3
+1421,142,06-01-24,Books,41.18,2,West,Debit Card,5,
+1285,37,06-01-24,Home,238.78,5,West,Credit Card,5,4
+1517,144,07-01-24,Sports,386.71,3,North,Debit Card,5,
+1488,1,09-01-24,Home,292.9,4,East,Wallet,0,5
+1995,8,10-01-24,Books,113.26,1,North,UPI,5,4
+1088,15,11-01-24,Books,286.84,4,South,UPI,10,4
+1574,154,11-01-24,Clothing,466.8,5,West,UPI,5,4
+1008,21,12-01-24,Clothing,218.34,1,East,UPI,0,4
+1564,141,12-01-24,Electronics,26,5,North,Debit Card,20,5
+1396,155,13-01-24,Sports,,1,East,Credit Card,0,3
+1202,113,13-01-24,Home,303.73,4,South,Credit Card,0,1
+1828,32,13-01-24,Electronics,430.11,2,South,Cash,10,4
+1104,71,14-01-24,Clothing,398.13,2,,Debit Card,0,5
+1299,75,15-01-24,Sports,445.66,5,West,Debit Card,0,3
+1588,164,15-01-24,Clothing,489.37,2,East,Wallet,0,4
+1764,192,16-01-24,Sports,38.89,3,West,Debit Card,5,4
+2000,169,16-01-24,Clothing,,3,West,Debit Card,20,4
+1337,158,16-01-24,Sports,177.31,5,East,Credit Card,15,3
+1962,56,17-01-24,Clothing,380.56,3,East,Debit Card,15,5
+1792,85,17-01-24,Electronics,57.17,5,South,Wallet,20,5
+1912,122,18-01-24,Clothing,402.75,2,North,Debit Card,0,4
+1233,123,21-01-24,Electronics,354.95,3,North,Wallet,0,4
+1841,12,21-01-24,Sports,86.82,5,South,UPI,0,5
+1345,21,21-01-24,Electronics,449.79,3,North,Debit Card,0,4
+1824,4,22-01-24,Clothing,199.4,3,South,Debit Card,5,4
+1800,98,22-01-24,Sports,96.9,4,East,Credit Card,0,5
+1568,130,24-01-24,Books,358.64,2,West,Wallet,5,4
+1917,92,25-01-24,Electronics,197.76,3,West,Wallet,10,4
+1133,193,26-01-24,Home,424.25,4,South,Cash,15,
+1304,84,26-01-24,Books,260.35,5,South,Credit Card,0,5
+1506,154,26-01-24,Sports,428.24,1,West,UPI,10,4
+1862,30,27-01-24,Electronics,480.13,4,North,Debit Card,20,5
+1043,55,27-01-24,Home,20.32,3,West,Credit Card,0,4
+1703,127,29-01-24,Beauty,81.64,5,North,Wallet,5,2
+1844,133,30-01-24,Electronics,367.54,4,West,Cash,15,4
+1651,133,30-01-24,Books,472.5,4,East,UPI,10,5
+1187,3,31-01-24,Sports,29.86,4,West,Debit Card,0,4
+1349,111,31-01-24,Books,202.01,1,East,Cash,10,4
+1779,194,01-02-24,Electronics,224.06,1,West,Wallet,15,
+1538,24,01-02-24,Clothing,483.59,1,East,Debit Card,15,3
+1583,75,03-02-24,Home,140.67,2,North,Wallet,0,4
+1410,152,05-02-24,Sports,124.78,3,West,Cash,5,
+1750,156,05-02-24,Books,305.33,4,North,Cash,5,4
+1503,93,05-02-24,Clothing,297.61,5,West,Credit Card,0,4
+1867,52,05-02-24,Home,272.75,4,West,Cash,10,
+1112,136,06-02-24,Books,,5,East,Wallet,10,5
+1518,176,06-02-24,Electronics,329.05,5,South,Credit Card,10,2
+1959,154,08-02-24,Electronics,445.75,1,South,UPI,10,4
+1211,101,09-02-24,Books,40.53,5,North,Cash,0,4
+1436,150,10-02-24,Sports,322.1,1,North,Wallet,20,1
+1209,131,11-02-24,Beauty,295,2,South,Wallet,0,4
+1920,22,14-02-24,Electronics,37.95,5,South,UPI,0,5
+1106,88,14-02-24,Electronics,439.16,1,South,Debit Card,0,4
+1050,167,14-02-24,Beauty,450.54,2,South,Wallet,15,5
+1171,28,15-02-24,Sports,43.44,4,West,UPI,20,5
+1149,96,15-02-24,Home,403.2,4,North,Debit Card,15,
+1736,143,16-02-24,Electronics,,1,South,Cash,0,3
+1549,33,18-02-24,Sports,188.62,1,South,Debit Card,0,3
+1731,185,18-02-24,Sports,363.11,5,East,Credit Card,5,2
+1901,132,20-02-24,Books,422.45,4,West,Cash,5,5
+1553,171,20-02-24,Home,378.35,3,South,Wallet,5,4
+1318,161,22-02-24,Electronics,234.73,4,West,UPI,10,
+1236,24,22-02-24,Books,6.89,3,North,UPI,0,5
+1975,28,22-02-24,Home,111.38,5,North,Cash,10,5
+1081,146,23-02-24,Books,224.8,3,South,Credit Card,0,5
+1624,9,23-02-24,Clothing,436.35,4,North,UPI,15,5
+1144,90,24-02-24,Beauty,362.74,3,South,Cash,0,2
+1969,18,24-02-24,Beauty,239.59,4,South,UPI,20,5
+1214,81,24-02-24,Books,358.41,3,South,UPI,0,3
+1695,126,26-02-24,Sports,354.78,4,East,UPI,10,
+1119,28,26-02-24,Home,258.08,4,South,Cash,10,4
+1281,129,28-02-24,Home,411.98,2,South,Credit Card,20,4
+1861,82,29-02-24,Sports,113.68,4,North,Wallet,15,4
+1543,84,01-03-24,Clothing,214.2,4,East,Cash,5,1
+1702,61,01-03-24,Home,57.42,4,West,UPI,15,
+1893,183,03-03-24,Electronics,316.07,4,North,Cash,10,5
+1572,8,04-03-24,Electronics,256.9,5,West,UPI,10,1
+1277,112,04-03-24,Clothing,188.06,4,East,Debit Card,5,1
+1814,53,05-03-24,Books,395.7,2,,Cash,0,1
+1775,115,05-03-24,Clothing,316.97,4,West,Credit Card,20,2
+1220,87,06-03-24,Home,388.8,1,South,Credit Card,5,5
+1580,196,07-03-24,Beauty,348.82,2,North,Cash,0,1
+1468,106,10-03-24,Home,475.71,2,East,Debit Card,0,
+1270,151,10-03-24,Sports,,5,East,Debit Card,0,4
+1045,131,10-03-24,Clothing,84.21,3,North,Debit Card,10,
+1224,130,11-03-24,Sports,71.25,5,South,Wallet,5,1
+1706,1,12-03-24,Electronics,442.08,5,East,Cash,20,4
+1010,122,12-03-24,Clothing,293.19,5,South,Wallet,5,
+1793,26,15-03-24,Books,383.4,3,East,Debit Card,10,2
+1562,44,15-03-24,Sports,293.97,2,West,UPI,20,4
+1590,101,15-03-24,Home,352.08,3,South,Cash,0,
+1040,190,16-03-24,Beauty,482.19,3,North,Debit Card,0,5
+1147,179,16-03-24,Clothing,153.2,3,East,Credit Card,5,5
+1381,18,17-03-24,Beauty,237.64,4,East,UPI,0,1
+1308,93,18-03-24,Sports,192.65,5,East,Credit Card,5,5
+1006,72,18-03-24,Clothing,429.49,1,South,Wallet,0,4
+1519,85,18-03-24,Home,80.04,1,East,Wallet,15,
+1951,47,20-03-24,Sports,402.49,5,North,Credit Card,0,
+1019,53,21-03-24,Clothing,445.6,5,West,Debit Card,5,5
+1136,131,23-03-24,Books,442.32,5,West,Cash,20,4
+1726,80,23-03-24,Home,375.45,4,West,Cash,0,
+1545,140,25-03-24,Books,166.02,2,West,Wallet,5,2
+1450,60,25-03-24,Home,424.78,2,East,Debit Card,5,5
+1325,128,27-03-24,Beauty,263.04,1,West,Credit Card,0,4
+1799,161,28-03-24,Electronics,39.89,2,West,Cash,0,
+1659,145,29-03-24,Home,142.54,1,West,Cash,10,4
+1408,50,30-03-24,Home,397.61,1,West,UPI,0,5
+1833,39,30-03-24,Clothing,222.41,5,East,Credit Card,0,2
+1732,146,30-03-24,Beauty,9.48,3,North,Credit Card,0,5
+1297,152,02-04-24,Sports,358.04,2,South,Credit Card,20,
+1089,190,03-04-24,Beauty,312.23,1,South,Cash,20,4
+1789,146,03-04-24,Home,32.81,2,South,Credit Card,0,5
+1914,147,03-04-24,Electronics,105.72,5,East,Debit Card,0,4
+1771,46,03-04-24,Home,448.2,5,East,UPI,10,3
+1765,155,04-04-24,Sports,188.7,5,West,Credit Card,20,5
+1195,172,04-04-24,Home,205.53,2,East,UPI,5,4
+1205,52,06-04-24,Electronics,65.85,2,South,Debit Card,0,
+1647,186,07-04-24,Beauty,344.29,2,West,Debit Card,0,
+1871,106,07-04-24,Electronics,252.56,2,South,Credit Card,10,5
+1492,118,10-04-24,Electronics,380.59,4,South,Wallet,20,4
+1730,20,11-04-24,Clothing,220.03,5,West,Credit Card,5,5
+1442,170,11-04-24,Sports,10.99,4,North,Debit Card,20,5
+1032,49,12-04-24,Sports,112.86,2,West,UPI,5,3
+1254,195,13-04-24,Home,196.89,5,West,Cash,15,3
+1329,145,13-04-24,Clothing,386.23,1,West,Debit Card,5,
+1347,97,15-04-24,Clothing,391.29,3,North,UPI,0,4
+1753,122,18-04-24,Sports,475.99,3,East,Credit Card,0,
+1235,38,19-04-24,Sports,420.47,4,South,Debit Card,0,5
+1262,128,20-04-24,Electronics,381.71,3,West,UPI,5,5
+1411,13,20-04-24,Home,480.51,2,South,Credit Card,15,2
+1302,166,20-04-24,Clothing,33.76,4,East,Cash,0,5
+1278,60,21-04-24,Clothing,30.92,5,East,Credit Card,0,4
+1514,94,21-04-24,Beauty,418.73,2,North,Debit Card,0,5
+1557,65,21-04-24,Home,43.84,3,North,UPI,15,4
+1142,137,22-04-24,Sports,241.04,5,East,Credit Card,20,5
+1469,158,22-04-24,Beauty,290.68,2,South,Debit Card,0,4
+1989,109,22-04-24,Home,469.84,2,West,Credit Card,0,
+1774,82,26-04-24,Sports,229.9,2,South,UPI,15,1
+1447,101,26-04-24,Home,319.01,1,East,Debit Card,0,3
+1743,144,28-04-24,Electronics,127.95,3,South,Wallet,10,5
+1487,122,29-04-24,Electronics,475.48,1,South,Debit Card,0,1
+1497,16,03-05-24,Home,446.82,5,South,Debit Card,10,4
+1780,10,03-05-24,Electronics,326.41,5,East,Cash,5,5
+1520,39,04-05-24,Books,438.56,1,East,Debit Card,0,4
+1623,76,04-05-24,Electronics,148.57,1,East,Wallet,0,5
+1324,148,05-05-24,Home,387.6,4,East,Cash,20,5
+1444,15,05-05-24,Clothing,181.73,4,East,Cash,0,2
+1809,133,06-05-24,Books,259.93,2,East,Wallet,10,4
+1542,160,07-05-24,Home,424.97,2,West,Cash,0,5
+1606,99,07-05-24,Sports,121.31,2,East,UPI,5,4
+1378,161,08-05-24,Electronics,175.87,2,West,Wallet,5,4
+1853,75,09-05-24,Clothing,57.15,4,West,UPI,0,3
+1478,90,11-05-24,Sports,459.53,5,West,Wallet,0,4
+1535,69,11-05-24,Clothing,119.06,5,North,Wallet,0,
+1512,69,12-05-24,Electronics,207.66,1,South,Credit Card,10,3
+1464,144,12-05-24,Electronics,189,5,South,UPI,0,
+1326,136,14-05-24,Clothing,488.13,1,,Wallet,10,2
+1137,1,14-05-24,Beauty,226.92,2,East,UPI,0,5
+1355,4,14-05-24,Clothing,374.98,5,,Cash,0,3
+1246,70,15-05-24,Electronics,446.48,4,East,Cash,0,
+1839,123,15-05-24,Books,118.65,1,South,Wallet,20,
+1451,108,15-05-24,Electronics,365.79,2,North,UPI,20,4
+1999,42,16-05-24,Books,408.4,4,South,Cash,5,
+1288,99,16-05-24,Home,340.52,1,North,Credit Card,0,
+1126,151,17-05-24,Home,383.44,2,East,Debit Card,10,4
+1015,104,17-05-24,Electronics,190.4,2,South,Debit Card,10,
+1038,190,18-05-24,Electronics,18.63,5,East,Cash,5,2
+1356,35,20-05-24,Home,239.54,5,North,UPI,0,5
+1612,84,20-05-24,Home,254.87,2,North,UPI,0,3
+1801,105,21-05-24,Clothing,333.79,1,West,Credit Card,10,5
+1445,54,21-05-24,Electronics,463.47,5,North,Cash,10,4
+1064,199,25-05-24,Books,81.3,5,North,Cash,10,5
+1426,66,26-05-24,Books,454.41,1,North,Debit Card,5,5
+1972,15,26-05-24,Clothing,105.12,3,East,UPI,5,4
+1093,53,27-05-24,Sports,240.4,2,East,Debit Card,0,5
+1342,8,28-05-24,Books,487.23,1,North,UPI,10,5
+1921,149,29-05-24,Electronics,325.92,3,South,Debit Card,15,4
+1017,131,30-05-24,Electronics,218.11,3,North,UPI,15,5
+1777,47,30-05-24,Books,354.2,2,West,Credit Card,10,4
+1536,4,30-05-24,Sports,5.73,2,East,Wallet,0,
+1960,14,30-05-24,Clothing,376.24,3,South,Credit Card,20,
+1614,86,31-05-24,Books,432.01,1,South,Debit Card,0,3
+1155,171,31-05-24,Clothing,340.03,4,East,Wallet,10,5
+1002,180,01-06-24,Home,395.55,2,South,Debit Card,0,
+1509,86,02-06-24,Electronics,39.16,5,East,UPI,0,5
+1818,85,03-06-24,Home,166.74,3,South,Cash,0,3
+1987,138,03-06-24,Clothing,347.72,4,East,Debit Card,5,5
+1370,46,04-06-24,Home,391.75,1,,Wallet,0,4
+1619,100,04-06-24,Sports,70.2,3,South,Credit Card,10,5
+1836,182,04-06-24,Sports,338.45,2,West,Credit Card,0,5
+1646,42,04-06-24,Home,219.22,1,South,Credit Card,0,5
+1154,143,05-06-24,Home,498.92,5,West,Debit Card,0,4
+1344,27,06-06-24,Electronics,16.68,2,South,Cash,10,5
+1927,46,07-06-24,Home,281.73,4,South,Credit Card,0,5
+1471,145,07-06-24,Electronics,394.84,4,East,Credit Card,0,2
+1807,197,07-06-24,Electronics,158.35,5,South,Wallet,0,5
+1749,152,07-06-24,Beauty,367.7,4,South,Debit Card,0,3
+1714,161,07-06-24,Clothing,130.29,5,North,Debit Card,20,
+1717,134,08-06-24,Electronics,202.52,2,South,Wallet,5,3
+1992,111,09-06-24,Home,138.41,3,West,UPI,10,5
+1523,101,09-06-24,Clothing,215.49,1,East,Wallet,20,
+1369,93,09-06-24,Clothing,313.09,3,,Debit Card,0,3
+1116,123,09-06-24,Clothing,105.6,1,North,UPI,20,5
+1534,1,10-06-24,Electronics,155.45,4,North,Debit Card,0,4
+1804,149,10-06-24,Home,344.14,4,West,Cash,0,5
+1830,92,10-06-24,Beauty,419.76,4,East,Credit Card,0,5
+1238,116,12-06-24,Clothing,,5,South,Wallet,0,
+1984,13,13-06-24,Electronics,331.46,5,North,Wallet,20,5
+1350,192,15-06-24,Electronics,154.94,2,,Wallet,15,
+1054,60,15-06-24,Sports,444.76,2,West,UPI,20,4
+1963,115,15-06-24,Electronics,300.59,5,North,Credit Card,20,1
+1701,148,18-06-24,Electronics,473.63,4,South,Cash,0,5
+1827,113,19-06-24,Clothing,100.96,1,North,UPI,0,5
+1649,142,20-06-24,Clothing,33.01,5,West,UPI,20,2
+1230,68,20-06-24,Home,258.01,3,West,Cash,0,4
+1928,34,20-06-24,Clothing,163.98,3,East,Wallet,10,2
+1491,126,20-06-24,Electronics,260.77,4,West,Cash,20,5
+1773,134,21-06-24,Home,394.76,1,East,Wallet,5,3
+1498,189,21-06-24,Sports,212.63,5,South,Debit Card,0,5
+1790,177,22-06-24,Beauty,248.09,4,West,Credit Card,0,4
+1811,3,22-06-24,Sports,181.66,4,North,Credit Card,15,4
+1641,144,24-06-24,Clothing,367.69,1,North,Cash,5,5
+1025,192,26-06-24,Electronics,173.6,3,West,Credit Card,0,
+1856,166,27-06-24,Electronics,305.84,2,South,UPI,5,5
+1548,124,29-06-24,Clothing,94.9,1,East,UPI,0,5
+1092,111,30-06-24,Clothing,24.53,5,North,Credit Card,20,5
+1440,49,01-07-24,Beauty,386.96,5,West,Credit Card,0,4
+1338,38,01-07-24,Home,189.01,1,West,Cash,10,5
+1028,161,01-07-24,Books,159.05,3,East,Cash,15,2
+1944,26,02-07-24,Clothing,,5,North,UPI,0,
+1146,124,03-07-24,Beauty,71.55,1,North,Cash,20,4
+1180,190,03-07-24,Electronics,477.78,4,North,Debit Card,0,4
+1080,191,03-07-24,Beauty,73.9,5,South,Credit Card,5,5
+1062,111,03-07-24,Books,173.49,1,,Debit Card,5,5
+1708,92,04-07-24,Beauty,295.86,4,North,Cash,0,5
+1371,181,05-07-24,Electronics,291.26,3,North,Wallet,0,4
+1985,25,05-07-24,Electronics,399.14,3,North,Cash,0,4
+1902,184,06-07-24,Home,245.12,5,East,Debit Card,10,3
+1866,191,06-07-24,Electronics,217.33,4,South,Debit Card,15,3
+1997,113,06-07-24,Books,135.99,3,South,Debit Card,5,5
+1135,175,07-07-24,Sports,35.92,4,North,Wallet,5,2
+1688,108,10-07-24,Home,313.71,1,North,Cash,0,3
+1699,126,10-07-24,Sports,300.85,3,West,Cash,20,4
+1829,34,11-07-24,Books,340.09,4,West,Debit Card,15,2
+1414,57,11-07-24,Home,497.44,2,West,Wallet,0,5
+1057,90,12-07-24,Home,492.09,5,North,Debit Card,5,5
+1266,129,14-07-24,Sports,57.16,4,West,Debit Card,10,5
+1822,51,15-07-24,Sports,438.78,3,South,UPI,0,5
+1965,3,15-07-24,Sports,445.12,4,East,Cash,10,5
+1599,190,17-07-24,Clothing,195.26,5,South,UPI,10,4
+1933,73,20-07-24,Electronics,187.94,2,West,Cash,5,4
+1217,2,20-07-24,Electronics,278.49,2,North,Wallet,0,5
+1673,166,21-07-24,Home,201.82,1,West,Cash,0,5
+1477,183,22-07-24,Sports,99.84,5,East,Credit Card,5,4
+1803,129,23-07-24,Books,407.99,3,West,Debit Card,10,4
+1772,35,23-07-24,Clothing,334.9,2,South,Debit Card,10,3
+1684,70,24-07-24,Home,475.95,3,East,Cash,0,4
+1685,159,24-07-24,Electronics,152.16,5,South,Debit Card,0,4
+1600,37,24-07-24,Beauty,17.47,5,West,Debit Card,0,
+1496,129,24-07-24,Electronics,473.5,3,West,UPI,0,4
+1096,188,25-07-24,Books,482.19,3,North,Debit Card,10,
+1737,159,25-07-24,Electronics,358.46,4,East,Wallet,0,5
+1622,147,26-07-24,Electronics,158.34,3,,Cash,0,4
+1107,129,27-07-24,Home,472.3,4,South,Wallet,10,5
+1039,175,27-07-24,Home,255.2,1,North,Cash,10,5
+1603,183,28-07-24,Sports,353.33,3,North,Credit Card,0,
+1228,198,28-07-24,Clothing,162.21,4,South,Cash,5,5
+1121,72,28-07-24,Home,290.75,3,East,Wallet,0,5
+1415,36,29-07-24,Electronics,357.3,4,East,UPI,0,4
+1569,35,30-07-24,Sports,380.71,1,North,Wallet,20,
+1973,192,31-07-24,Home,160.34,3,South,UPI,10,1
+1132,35,01-08-24,Home,222.38,3,West,Wallet,10,5
+1313,194,01-08-24,Home,248.97,3,West,UPI,0,5
+1634,99,02-08-24,Home,30.66,5,West,Cash,0,5
+1084,190,03-08-24,Books,203.88,2,West,Credit Card,5,5
+1014,100,04-08-24,Home,345.76,4,North,Credit Card,0,2
+1601,12,06-08-24,Clothing,420.3,4,North,Cash,15,4
+1812,181,06-08-24,Sports,180.13,4,East,Cash,5,5
+1843,54,06-08-24,Sports,360.78,1,South,Wallet,10,4
+1582,114,07-08-24,Clothing,431.54,5,East,Debit Card,0,4
+1733,47,08-08-24,Clothing,296.78,4,East,Wallet,5,4
+1091,82,10-08-24,Beauty,200.59,3,North,UPI,0,3
+1397,130,10-08-24,Sports,404.45,2,North,Cash,15,3
+1868,166,10-08-24,Beauty,349.73,3,East,UPI,5,5
+1713,56,11-08-24,Sports,293.55,4,West,Debit Card,0,2
+1882,84,11-08-24,Clothing,107.09,2,East,Debit Card,10,5
+1284,197,12-08-24,Clothing,330.39,4,West,Cash,0,4
+1819,78,13-08-24,Electronics,180.44,5,West,Wallet,0,4
+1872,51,14-08-24,Sports,208.92,5,North,UPI,0,4
+1481,23,14-08-24,Sports,114.32,5,North,Credit Card,0,5
+1359,17,15-08-24,Electronics,471.65,1,North,UPI,10,5
+1663,168,15-08-24,Electronics,38.41,3,North,UPI,10,4
+1941,48,16-08-24,Clothing,244.57,4,West,Wallet,10,5
+1515,190,16-08-24,Electronics,169.43,5,North,Wallet,10,1
+1075,134,18-08-24,Home,138.77,3,South,Debit Card,5,
+1153,151,20-08-24,Sports,9.39,1,South,Credit Card,10,4
+1990,146,21-08-24,Electronics,320.01,3,South,Wallet,0,
+1398,17,21-08-24,Beauty,232.53,2,West,Cash,5,5
+1109,63,23-08-24,Clothing,234.02,4,East,Cash,20,5
+1658,186,24-08-24,Beauty,55.18,2,South,Credit Card,20,5
+1231,183,24-08-24,Electronics,28.19,4,East,Credit Card,0,1
+1201,180,26-08-24,Electronics,489.6,4,East,Cash,20,1
+1794,63,26-08-24,Clothing,207.79,1,North,UPI,20,5
+1316,189,26-08-24,Home,299.59,1,East,Wallet,10,2
+1816,83,27-08-24,Beauty,457.33,2,West,Wallet,0,
+1037,190,28-08-24,Clothing,245.37,5,East,Credit Card,5,4
+1082,44,28-08-24,Books,314.99,5,East,Credit Card,0,
+1854,179,29-08-24,Clothing,115.07,1,West,Cash,10,
+1021,88,29-08-24,Clothing,81.46,2,East,UPI,5,5
+1967,151,30-08-24,Electronics,318.03,4,North,Cash,0,5
+1554,101,30-08-24,Electronics,199.63,4,East,Debit Card,5,4
+1315,163,31-08-24,Electronics,267.81,5,East,Cash,0,5
+1636,25,01-09-24,Electronics,147.38,2,West,Credit Card,10,
+1384,58,01-09-24,Home,35.79,4,North,UPI,5,
+1406,26,01-09-24,Beauty,422.61,4,West,Debit Card,5,4
+1210,113,04-09-24,Electronics,314.27,1,East,Credit Card,10,4
+1078,4,04-09-24,Home,176.9,5,North,Cash,10,4
+1473,63,04-09-24,Sports,284.22,3,West,Debit Card,20,5
+1001,103,04-09-24,Clothing,156.63,4,South,Wallet,5,5
+1521,100,06-09-24,Home,271.85,2,West,Wallet,0,5
+1115,33,07-09-24,Electronics,146.46,2,South,Credit Card,0,5
+1459,47,07-09-24,Sports,201.93,3,North,Cash,0,4
+1127,62,07-09-24,Electronics,288.9,5,West,UPI,10,2
+1193,165,07-09-24,Home,402.72,4,North,Credit Card,0,4
+1190,155,07-09-24,Clothing,151.17,4,West,Wallet,0,5
+1968,107,08-09-24,Clothing,82.46,5,North,Cash,0,5
+1638,123,08-09-24,Electronics,179.71,1,South,Debit Card,0,
+1526,69,11-09-24,Electronics,383.95,3,West,UPI,0,2
+1213,184,13-09-24,Clothing,124.76,2,East,Credit Card,10,4
+1434,190,14-09-24,Electronics,360.57,4,South,Debit Card,0,2
+1192,62,14-09-24,Electronics,144.1,2,South,Credit Card,5,4
+1139,142,14-09-24,Electronics,315.16,4,South,Debit Card,5,4
+1016,152,15-09-24,Electronics,87.6,1,West,Credit Card,0,5
+1336,22,15-09-24,Electronics,261.39,1,West,Wallet,15,4
+1173,44,18-09-24,Electronics,206.52,2,North,Wallet,0,1
+1399,104,20-09-24,Sports,275.56,1,East,Debit Card,5,5
+1508,179,20-09-24,Sports,40.22,1,East,Wallet,5,3
+1260,161,21-09-24,Electronics,334.86,5,East,Credit Card,5,2
+1936,121,22-09-24,Sports,330.08,4,South,Debit Card,10,5
+1362,46,23-09-24,Electronics,,3,West,Wallet,0,
+1413,135,25-09-24,Electronics,475.96,1,South,Debit Card,20,
+1640,151,26-09-24,Clothing,170.35,4,North,Debit Card,5,5
+1896,118,26-09-24,Clothing,9.94,3,North,Cash,5,5
+1156,29,26-09-24,Home,415.09,4,East,Cash,0,5
+1118,41,28-09-24,Electronics,196.34,3,South,Wallet,5,4
+1980,126,28-09-24,Electronics,43.1,1,South,Wallet,10,2
+1239,98,01-10-24,Clothing,,5,West,Debit Card,0,4
+1456,109,02-10-24,Home,332.9,2,North,Credit Card,10,5
+1074,2,03-10-24,Books,174.51,3,North,Cash,15,5
+1948,113,04-10-24,Clothing,293.94,3,West,Wallet,5,3
+1296,161,04-10-24,Sports,200.59,3,North,Credit Card,10,4
+1982,25,04-10-24,Electronics,194.49,4,West,Credit Card,0,5
+1293,152,05-10-24,Electronics,370.61,2,West,Wallet,0,3
+1048,21,06-10-24,Electronics,231.97,5,North,Wallet,0,4
+1035,188,07-10-24,Electronics,345.7,3,South,Cash,0,
+1769,157,07-10-24,Home,138.08,4,East,Credit Card,15,4
+1403,176,07-10-24,Clothing,225.54,4,,Wallet,5,5
+1131,104,07-10-24,Home,427.71,2,North,Cash,10,5
+1164,66,09-10-24,Home,385.62,3,North,Wallet,0,5
+1642,57,10-10-24,Sports,205.24,2,North,Cash,20,4
+1070,164,11-10-24,Electronics,154.65,5,East,Wallet,0,5
+1060,84,15-10-24,Electronics,197.79,2,South,Debit Card,0,
+1495,117,16-10-24,Sports,447.58,5,East,Credit Card,10,
+1815,165,18-10-24,Clothing,157.36,3,South,Credit Card,0,5
+1798,177,20-10-24,Sports,84.43,2,South,UPI,10,4
+1177,75,21-10-24,Sports,,3,South,Credit Card,0,5
+1602,113,21-10-24,Clothing,10.65,2,West,Wallet,5,
+1876,132,21-10-24,Beauty,62.12,4,North,Cash,10,3
+1219,54,22-10-24,Books,75.72,1,North,Wallet,0,4
+1484,140,22-10-24,Books,91.73,1,North,Cash,5,4
+1943,81,23-10-24,Clothing,403.22,3,West,UPI,10,5
+1251,164,23-10-24,Electronics,49.2,5,North,Credit Card,15,3
+1011,75,23-10-24,Sports,188.73,5,South,Credit Card,0,4
+1022,158,25-10-24,Electronics,17.6,3,West,Credit Card,10,4
+1435,125,25-10-24,Books,127.43,1,East,Wallet,5,4
+1242,144,25-10-24,Books,138.84,5,West,Wallet,0,5
+1579,135,26-10-24,Beauty,460.89,5,South,Credit Card,0,5
+1123,162,26-10-24,Clothing,490.47,2,North,Cash,0,5
+1380,128,27-10-24,Sports,148.8,3,East,Credit Card,10,1
+1252,147,27-10-24,Home,345.07,3,South,Credit Card,0,5
+1227,160,27-10-24,Electronics,375.58,1,North,Credit Card,15,1
+1884,34,27-10-24,Clothing,448.36,4,East,Cash,15,5
+1694,39,28-10-24,Clothing,339.63,5,North,Wallet,0,5
+1719,44,28-10-24,Clothing,98.33,4,West,Debit Card,0,1
+1140,103,30-10-24,Electronics,463.56,4,West,Debit Card,0,5
+1274,7,31-10-24,Books,231.56,5,East,Debit Card,10,5
+1575,90,31-10-24,Electronics,414.62,4,North,Wallet,0,5
+1707,131,31-10-24,Home,105.3,1,East,Wallet,5,4
+1704,105,02-11-24,Sports,472.64,3,South,Cash,0,
+1870,30,02-11-24,Home,89.99,1,East,UPI,20,5
+1877,138,03-11-24,Books,304.79,5,East,Cash,5,4
+1332,176,03-11-24,Electronics,136.46,3,East,Cash,10,4
+1066,8,03-11-24,Electronics,273.14,3,North,Cash,20,5
+1728,164,05-11-24,Books,219.84,5,East,Wallet,0,5
+1762,101,06-11-24,Books,370.27,5,East,Wallet,5,5
+1427,32,06-11-24,Clothing,472.13,5,North,Wallet,20,4
+1394,194,07-11-24,Clothing,341.41,3,East,UPI,0,5
+1837,118,08-11-24,Electronics,93.73,1,East,Cash,5,
+1292,148,08-11-24,Beauty,327.56,2,South,Cash,10,3
+1686,19,11-11-24,Home,50.57,3,East,Wallet,0,4
+1194,51,13-11-24,Home,464.97,2,East,Debit Card,15,4
+1935,47,15-11-24,Home,362.76,5,East,Wallet,10,5
+1409,153,15-11-24,Books,427.62,2,North,Debit Card,0,4
+1169,134,15-11-24,Beauty,48.86,2,East,Wallet,10,5
+1821,1,16-11-24,Home,470.85,4,East,Cash,10,4
+1889,43,16-11-24,Home,397.42,4,South,Credit Card,15,4
+1786,33,17-11-24,Home,15.85,4,South,UPI,0,
+1759,60,17-11-24,Books,104.14,4,South,Cash,20,
+1662,141,18-11-24,Electronics,490.28,1,North,UPI,0,
+1511,29,18-11-24,Electronics,255.93,1,North,UPI,0,1
+1966,111,19-11-24,Electronics,291.51,4,West,Debit Card,15,
+1570,81,19-11-24,Home,55.75,3,South,Wallet,10,5
+1258,199,19-11-24,Sports,87.64,5,East,UPI,0,
+1618,177,19-11-24,Electronics,201.29,3,West,Cash,0,1
+1906,195,20-11-24,Clothing,95.8,5,East,UPI,5,5
+1625,199,20-11-24,Clothing,337.99,4,West,Credit Card,15,2
+1067,175,20-11-24,Books,382.14,3,East,Debit Card,0,3
+1864,91,21-11-24,Electronics,280.65,1,West,Debit Card,10,3
+1117,5,21-11-24,Electronics,,3,North,Wallet,0,5
+1003,93,22-11-24,Clothing,225.98,5,,Credit Card,5,5
+1419,8,23-11-24,Electronics,221.31,5,West,Credit Card,10,2
+1690,167,23-11-24,Sports,137.36,3,West,Wallet,0,
+1826,193,23-11-24,Electronics,254.05,2,East,Credit Card,10,5
+1938,94,25-11-24,Books,9.14,1,North,UPI,20,1
+1161,187,26-11-24,Electronics,371.54,2,,Wallet,0,4
+1560,74,27-11-24,Sports,87.82,4,North,Credit Card,5,4
+1671,29,28-11-24,Electronics,214.25,5,North,Cash,5,5
+1340,51,30-11-24,Beauty,153.4,3,East,Cash,20,5
+1923,1,30-11-24,Electronics,190.86,4,South,UPI,0,5
+1696,195,30-11-24,Home,306.95,2,North,Wallet,0,4
+1725,149,30-11-24,Beauty,50.85,4,West,Credit Card,0,4
+1264,82,01-12-24,Beauty,352.76,3,South,Wallet,20,
+1412,60,02-12-24,Home,102.48,2,North,Debit Card,20,2
+1758,186,04-12-24,Home,274.41,1,East,Cash,10,
+1581,58,05-12-24,Home,365.85,4,South,Cash,10,4
+1751,117,05-12-24,Home,338.07,4,North,Debit Card,15,4
+1418,65,05-12-24,Books,133.47,3,South,Cash,0,5
+1346,30,07-12-24,Electronics,392.68,3,North,Cash,5,5
+1791,11,07-12-24,Home,463.92,1,East,Credit Card,10,
+1343,27,09-12-24,Beauty,424.3,3,West,UPI,0,5
+1489,34,10-12-24,Beauty,221.12,3,East,Debit Card,5,4
+1589,138,10-12-24,Home,428.99,4,South,Cash,10,1
+1245,187,10-12-24,Home,395.52,1,East,Debit Card,0,5
+1013,117,10-12-24,Beauty,354.27,5,South,Debit Card,0,1
+1598,151,11-12-24,Home,368.55,5,East,Debit Card,15,5
+1502,22,11-12-24,Home,106.32,2,East,Wallet,15,4
+1182,121,12-12-24,Clothing,153.29,5,South,Credit Card,0,5
+1453,103,13-12-24,Sports,217.21,1,South,Wallet,10,2
+1360,172,14-12-24,Sports,,3,South,Cash,5,4
+1878,184,14-12-24,Sports,63.02,5,West,Cash,20,4
+1949,99,14-12-24,Sports,392.07,1,North,UPI,0,5
+1042,108,15-12-24,Electronics,24.3,3,North,Debit Card,5,5
+1904,195,16-12-24,Electronics,396.82,4,East,Cash,20,5
+1761,28,16-12-24,Electronics,372.73,2,South,Cash,5,4
+1846,145,17-12-24,Home,84.87,3,South,Credit Card,15,3
+1712,153,18-12-24,Books,12.62,4,West,Wallet,10,
+1847,112,21-12-24,Electronics,46.36,3,West,Wallet,5,5
+1366,124,21-12-24,Books,116.56,2,North,Wallet,15,5
+1539,80,22-12-24,Clothing,116.03,2,North,Wallet,0,
+1271,159,23-12-24,Electronics,478.62,4,South,Debit Card,0,5
+1942,61,23-12-24,Clothing,7.63,3,West,Cash,0,4
+1052,132,24-12-24,Beauty,478.18,4,West,Credit Card,0,4
+1101,45,25-12-24,Sports,69.67,3,East,UPI,0,5
+1956,78,25-12-24,Electronics,372.42,4,South,Credit Card,0,4
+1208,130,26-12-24,Home,227.43,5,West,Debit Card,20,4
+1838,3,26-12-24,Beauty,,5,East,Cash,10,3
+1617,19,27-12-24,Home,278.59,4,,Debit Card,5,4
+1364,6,27-12-24,Clothing,42.42,5,West,Wallet,10,4
+1385,67,27-12-24,Home,77.92,2,East,Debit Card,5,1
+1486,58,27-12-24,Books,144.83,2,East,UPI,10,
+1513,47,27-12-24,Books,406.38,2,West,Cash,20,5
+1859,50,29-12-24,Books,198.56,1,North,UPI,0,5
+1404,39,31-12-24,Sports,108.55,3,North,Credit Card,0,5
+1746,74,31-12-24,Home,127.54,3,East,UPI,0,2
